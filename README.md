@@ -3,6 +3,8 @@
 Part of a first-year project at Télécom ParisTech, Kilimandjaro is a fractal
 landscape generator.
 
+![Screenshot](https://raw.github.com/fxthomas/kilimandjaro/master/screenshots/Render.png)
+
 # How to build
 
 It is an old project, and at that time I still used
